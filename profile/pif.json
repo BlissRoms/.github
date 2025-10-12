@@ -1,15 +1,16 @@
 {
   "TYPE": "user",
   "TAGS": "release-keys",
-  "ID": "BP31.250502.008",
+  "ID": "BP41.250822.010",
   "BRAND": "google",
-  "DEVICE": "cheetah",
-  "FINGERPRINT": "google/cheetah_beta/cheetah:16/BP31.250502.008/13497110:user/release-keys",
+  "DEVICE": "husky",
+  "FINGERPRINT": "google/husky_beta/husky:16/BP41.250822.010/14082742:user/release-keys",
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 7 Pro",
-  "PRODUCT": "cheetah_beta",
-  "RELEASE": "16",
-  "SECURITY_PATCH": "2025-05-05",
-  "DEVICE_INITIAL_SDK_INT": 21,
-  "DEBUG": false
+  "MODEL": "Pixel 8 Pro",
+  "PRODUCT": "husky_beta",
+  "RELEASE": "12",
+  "SECURITY_PATCH": "2025-09-05",
+  "DEVICE_INITIAL_SDK_INT": "21",
+  "DEBUG": false,
+  "SDK_INT": "32"
 }
