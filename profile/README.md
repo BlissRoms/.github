@@ -9,7 +9,8 @@ If you are looking for download links, go to our website: https://downloads.blis
 # Sources & Documentation
 
 [BlissRoms 17.xx source (based on Android 14)](https://github.com/BlissRoms/stable_releases/tree/universe) <br>
-[BlissRoms 18.xx source (based on Android 15)](https://github.com/BlissRoms/stable_releases/tree/voyager)
+[BlissRoms 18.xx source (based on Android 15)](https://github.com/BlissRoms/stable_releases/tree/voyager) <br>
+[BlissRoms 19.xx source (based on Android 16)](https://github.com/BlissRoms/stable_releases/tree/waterlily) <br>
 
 If you are looking for a guide to install & build BlissRoms, check https://docs.blissroms.org/
 
