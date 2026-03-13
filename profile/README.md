@@ -4,7 +4,7 @@
 Welcome to BlissRoms, an Android-based open source OS that incorporates many optimizations, features, and with a wide range of availability for devices.
 
 # Downloads
-If you are looking for download links, go to our website: https://downloads.blissroms.org/
+If you are looking for download links, go to our [Website](https://blissroms.org/downloads)
 
 # Sources & Documentation
 
